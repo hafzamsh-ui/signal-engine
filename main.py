@@ -14,7 +14,7 @@ DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1507761546023931914/PXFUVJqs
 # ====================================
 # TWELVEDATA API KEY
 # ====================================
-API_KEY = a0fddede1549489f85e5ba07f4f98ac5"
+API_KEY = "a0fddede1549489f85e5ba07f4f98ac5"
 
 
 # ====================================
