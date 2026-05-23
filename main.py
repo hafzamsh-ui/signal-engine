@@ -6,7 +6,7 @@ import time
 
 PORT = int(os.environ.get("PORT", 8000))
 
-DISCORD_WEBHOOK = "PASTE_WEBHOOK_KAU"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1507761546023931914/PXFUVJqsRs_cJ3tW_3TvqmoMyr0XDF718ddne06ETtox6wJ4ItCK4FPT6qgbkZPTYihw"
 
 # =======================
 # DISCORD
