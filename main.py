@@ -37,7 +37,7 @@ def send_discord(msg):
 def get_gold_price():
 
     try:
-        url = f"https://api.twelvedata.com/price?symbol=XAU/USD&apikey={API_KEY}"
+        url = f"https://api.twelvedata.com/price?symbol=XAU/USD&apikey={7865d7c614974b54a36d9475b10d4d61)"
 
         r = requests.get(url, timeout=10)
 
